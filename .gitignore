@@ -15,8 +15,6 @@ desktop.ini
 *.orig
 
 # Environment / secrets
-.env
-.env.*
 !.env.example
 
 # Certificates and credentials
@@ -109,7 +107,5 @@ assets/diagrams/02-pipeline-B.svg
 assets/diagrams/05-roadmap-B.svg
 !assets/diagrams/02-pipeline-A.svg
 !assets/diagrams/05-roadmap-A.svg
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
 .gitignore
+config.bat
